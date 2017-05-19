@@ -72,7 +72,7 @@ img {
 
 
 h1, h2, h3, h4, h5, h6 {
-    color: #dd6d8c;
+    color: #f69644;
     font-weight: bold;
 
     text-align: center;
@@ -489,7 +489,7 @@ header h1 a img {
     position: absolute;
     bottom: 0;
     right: 0;
-    background-color: rgba(190,114,134,0.63);
+    background-color: #f69644;
     color: #fff;
     font: 300 30px/35px 'BenchNine', 'sans-serif';
     padding: 3px 0 8px 30px;
@@ -564,7 +564,7 @@ header h1 a img {
 /**Map**/
 
 .color1 {
-    color: #dd6d8c;
+    color: #f69644;
 }
 
 .color1 a:hover, a.color1:hover {
