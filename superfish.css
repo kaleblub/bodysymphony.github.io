@@ -72,6 +72,9 @@ nav{ position:relative;padding: 0px 0 0 0;}
 
 .sf-menu>li.sfHover>a, .sf-menu>li.current>a, .sf-menu>li>a:hover {
 	color: #f69644;
+	background: -webkit-linear-gradient(#fbd018, #f69644, #fde507);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent
 }
 
 .sf-menu>li.sfHover>a:after, .sf-menu>li.current>a:after, .sf-menu>li>a:hover:after {
