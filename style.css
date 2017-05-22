@@ -78,6 +78,10 @@ h1, h2, h3, h4, h5, h6 {
 
     text-align: center;
     font-family: 'BenchNine', 'sans-serif';
+	
+    background: -webkit-linear-gradient(#fbd018, #f69644, #fde507);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 h2 {
