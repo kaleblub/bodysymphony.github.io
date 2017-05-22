@@ -518,7 +518,7 @@ header h1 a img {
 .gal_magnify {
     position: absolute;
     display: block;
-    background: url(../images/magnify.png) center -100px no-repeat;
+    background: url(..magnify.png) center -100px no-repeat;
     width: 100%;
     height: 100%;
     top: 0;
@@ -703,7 +703,7 @@ footer {
     border: none;
     text-indent: -999px;
     z-index: 20;
-    background: url(../images/totop.png) no-repeat left 0;
+    background: url(..totop.png) no-repeat left 0;
     transition: 0s ease;
     -o-transition: 0s ease;
     -webkit-transition: 0s ease;
