@@ -1,10 +1,10 @@
 .some_class {
-	behavior: url(js/PIE.htc);
+	behavior: url(PIE.htc);
 	position: relative;
 }
 
 .icon img {
-	behavior: url(js/PIE.htc);
+	behavior: url(PIE.htc);
 	position: absolute;
 }
 
