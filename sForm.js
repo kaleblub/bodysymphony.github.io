@@ -8,7 +8,7 @@
 			
 		o=$.extend({
 			ownerEmail:'#'
-			,mailHandlerURL:'bat/MailHandler-sub.php'
+			,mailHandlerURL:'MailHandler-sub.php'
 		},o)
 		
 		submit.click(function(){
