@@ -90,7 +90,7 @@ nav{ position:relative;padding: 0px 0 0 0;}
 	left: 50%;
 	margin-left: -3px;
 	width: 5px;
-	background: url(../images/arrows.png) 0 bottom no-repeat;
+	background: url(..arrows.png) 0 bottom no-repeat;
 	height: 4px;
 	bottom: 15px;
 	pointer-events: none;
@@ -151,7 +151,7 @@ nav{ position:relative;padding: 0px 0 0 0;}
 	z-index: 999; 
 	width: 144px;
 	padding-top: 12px;
-	background: url(../images/sub_bg.png) 0 0 repeat;
+	background: url(..sub_bg.png) 0 0 repeat;
 	top: 59px;
 	padding-bottom: 12px;
 
