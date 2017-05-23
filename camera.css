@@ -97,14 +97,14 @@
 	z-index: 2;
 }
 .camera_target_content .camera_link {
-    background: url(..blank.gif);
+    background: url(blank.gif);
 	display: block;
 	height: 100%;
 	text-decoration: none;
 }
 .camera_loader {
-    background: linear-gradient(to top, #fde507 0%, #f69644 100%) url(..camera-loader.gif) no-repeat center;
-	background: linear-gradient(to top, #fde507 0%, #f69644 100%) url(..camera-loader.gif) no-repeat center;
+    background: linear-gradient(to top, #fde507 0%, #f69644 100%) url(camera-loader.gif) no-repeat center;
+	background: linear-gradient(to top, #fde507 0%, #f69644 100%) url(camera-loader.gif) no-repeat center;
 	border: 1px solid #ffffff;
 	border-radius: 18px;
 	height: 36px;
@@ -139,7 +139,7 @@
 
 
 .slide_wrapper .camera_prev{
-	background: url(..prevnext_bg.png) 0 0 repeat;
+	background: url(prevnext_bg.png) 0 0 repeat;
 	width: 70px;	
 	top: 0 !important;
 	height: auto !important;
@@ -166,7 +166,7 @@
 }
 
 .slide_wrapper .camera_next>span {
-	background: url(..next.png) center 0 no-repeat;
+	background: url(next.png) center 0 no-repeat;
 	top: 50%;
 	margin-top: -10px;
 	position: absolute;
@@ -179,7 +179,7 @@
 
 
 .slide_wrapper .camera_next {
-	background: url(..prevnext_bg.png) 0 0 repeat;
+	background: url(prevnext_bg.png) 0 0 repeat;
 	width: 70px;	
 	top: 0  !important;
 	bottom: 0;
@@ -209,7 +209,7 @@
 
 }
 .camera_thumbs_cont ul {
-	background: url(..thumb_bg.png) 0 0 repeat;
+	background: url(thumb_bg.png) 0 0 repeat;
 	overflow: hidden;
 	position: relative;
 	width: 100% !important;
@@ -386,7 +386,7 @@
 	margin-left: -332px;
 	cursor: pointer;
 	z-index: 999;
-	background: url(..prevnext.png) 0 0 no-repeat;
+	background: url(prevnext.png) 0 0 no-repeat;
 	transition: 0.5s ease;
     -o-transition: 0.5s ease;
     -webkit-transition: 0.5s ease;
