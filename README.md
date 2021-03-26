@@ -1,2 +1,2 @@
 # bodysymphony.github.io
-My Mother's Doterra Website
+Prototype For My Mother's Doterra Website
